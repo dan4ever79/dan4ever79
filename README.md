@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan4ever79
 - 👀 I’m interested in Java / MicroServices / repository
-- 🌱 I’m currently learning k8s / ci/cd
+- 🌱 I’m continously learn/gather all stuff turns around k8s / CI/CD / java / cloud native
 - 💞️ I’m looking to collaborate on best ci/cd practices / java development / microservices / k8s
 - 📫 How to reach me daniel.hornn@gmail.com
 
